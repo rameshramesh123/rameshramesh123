@@ -7,7 +7,28 @@
 
 - 👨‍💻 All of my projects are available at [https://ryalirameshportfolio.netlify.app/](https://ryalirameshportfolio.netlify.app/)
 
-- 💬 Ask me about **Java,Spring boot,React,Mysql,MongoDB**
+## 💬 Ask me about
+
+<p align="left">
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  </a>
+  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
+  </a>
+</p>
+
+💬 Ask me about **Java, Spring Boot, React, MySQL, MongoDB**
+
 
 - 📫 How to reach me **rjramesh976@gmail.com**
 
