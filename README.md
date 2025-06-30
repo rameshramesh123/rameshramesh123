@@ -44,6 +44,13 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1KlWxWrUJNEvzb2vKGCAoSnLbhfafT0S2/view?usp=sharing](https://drive.google.com/file/d/1KlWxWrUJNEvzb2vKGCAoSnLbhfafT0S2/view?usp=sharing)
 
+- ## 🏆 HackerRank Profile
+
+<a href="https://www.hackerrank.com/rjramesh976" target="_blank">
+  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank Badge"/>
+</a>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ramesh-ryali-437846232" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ramesh-ryali-437846232" height="30" width="40" /></a>
