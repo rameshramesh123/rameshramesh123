@@ -59,6 +59,10 @@
     <a href="mailto:rjramesh976@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
     </a>
+    <a href="https://ryalirameshportfolio.netlify.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
+</a>
+
   </p>
 
 <h3 align="left">Languages and Tools:</h3>
