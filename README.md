@@ -16,7 +16,7 @@
 
    <img src="https://komarev.com/ghpvc/?username=rameshramesh123&label=Profile%20views&color=0e75b6&style=flat" alt="rameshramesh123" />
   </p>
- <h2>👨‍💻 Java Full Stack Developer</h2>
+ <h2 align="center">👨‍💻 Java Full Stack Developer</h2>
  <p>
    a Java Full Stack Developer with an MCA degree and hands-on experience in Java, Spring Boot, React JS, MySQL, and MongoDB.
 I enjoy building clean, efficient web applications and have worked with tools like Postman, Swagger, Git, Maven, and IntelliJ.
@@ -116,8 +116,16 @@ I'm passionate about learning, writing clean code, and seeking opportunities in 
 </div>
 <hr>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rameshramesh123&show_icons=true&locale=en&layout=compact" alt="rameshramesh123" /></p>
+<!-- GitHub Stats (Dark Theme) -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rameshramesh123&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rameshramesh123&show_icons=true&locale=en" alt="rameshramesh123" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rameshramesh123&show_icons=true&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rameshramesh123&" alt="rameshramesh123" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rameshramesh123&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
