@@ -117,7 +117,7 @@ I'm passionate about learning, writing clean code, and seeking opportunities in 
 <hr>
 
 <!-- GitHub Stats (Dark Theme) -->
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=rameshramesh123&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
@@ -125,7 +125,5 @@ I'm passionate about learning, writing clean code, and seeking opportunities in 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rameshramesh123&show_icons=true&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rameshramesh123&theme=tokyonight" alt="GitHub Streak" />
-</p>
+
 
