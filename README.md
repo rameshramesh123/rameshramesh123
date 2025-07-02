@@ -83,47 +83,61 @@ I'm passionate about learning, writing clean code, and seeking opportunities in 
 </a>
 <hr>
 
+
+
 ## 📁 Projects
 
-<div style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: center;">
+<table>
+  <tr>
+    <td>
+      
+### 🚌 Bus Booking System
 
-  <div style="border: 1px solid #ccc; border-radius: 8px; padding: 15px; width: 30%;">
-    <h3>🚌 Bus Booking System</h3>
-    <p>A full-stack web app for booking bus tickets with admin and  user dashboards.</p>
-    <p><strong>Tech Stack:</strong> HTML, CSS, JavaScript,Thymeleaf,java,spring boot,Mysql</p>
-    <a href="https://github.com/rameshramesh123/Bus_Booking" target="_blank">🔗 GitHub Repository</a>
-       <a href="https://drive.google.com/file/d/1NTtCH4a8U2SIhW13Ql0GnxEjwQYiYy-3/view" target="_blank">Video Demo</a>
+A full-stack web app for booking bus tickets with admin and user dashboards.  
+**Tech Stack:** HTML, CSS, JavaScript, Thymeleaf, Java, Spring Boot, MySQL  
+🔗 [GitHub Repo](https://github.com/rameshramesh123/Bus_Booking)  
+🎥 [Video Demo](https://drive.google.com/file/d/1NTtCH4a8U2SIhW13Ql0GnxEjwQYiYy-3/view)
 
-  </div>
+</td>
+<td>
 
-  <div style="border: 1px solid #ccc; border-radius: 8px; padding: 15px; width: 30%;">
-    <h3>👨‍⚕️ Doctor-Patient Medicine Tracker</h3>
-    <p>CRUD app to manage medicine data between doctors and patients.</p>
-    <p><strong>Tech Stack:</strong> HTML, CSS, JavaScript,Thymeleaf,java,spring boot,MongoDb</p>
-    <a href="https://github.com/rameshramesh123/Patient_Medicine-and-Appointment_Management_System" target="_blank">🔗 GitHub Repository</a>
-       <a href="https://drive.google.com/file/d/1sjcnjmXvrdbfg1dXhkBkhovFeaXzShlW/view" target="_blank">Video Demo</a>
+### 👨‍⚕️ Doctor-Patient Medicine Tracker
 
-  </div>
+CRUD app to manage medicine data between doctors and patients.  
+**Tech Stack:** HTML, CSS, JavaScript, Thymeleaf, Java, Spring Boot, MongoDB  
+🔗 [GitHub Repo](https://github.com/rameshramesh123/Patient_Medicine-and-Appointment_Management_System)  
+🎥 [Video Demo](https://drive.google.com/file/d/1sjcnjmXvrdbfg1dXhkBkhovFeaXzShlW/view)
 
-  <div style="border: 1px solid #ccc; border-radius: 8px; padding: 15px; width: 30%;">
-    <h3>🌐 Employee Management</h3>
-    <p>CRUD app to manage emoloyees data.</p>
-    <p><strong>Tech Stack:</strong> HTML, CSS, JavaScript,Thymeleaf,java,spring boot<</p>
-    <a href="https://github.com/rameshramesh123/Employee_Management_System">🔗 GitHub Repository</a><br />
-       <a href="https://drive.google.com/file/d/19oZJ2C0A6tIJkAsuwU7rYsyQ8ah5_0M7/view" target="_blank">Video Demo</a>
-  </div>
+</td>
+<td>
 
-</div>
+### 🌐 Employee Management
+
+CRUD app to manage employee data.  
+**Tech Stack:** HTML, CSS, JavaScript, Thymeleaf, Java, Spring Boot  
+🔗 [GitHub Repo](https://github.com/rameshramesh123/Employee_Management_System)  
+🎥 [Video Demo](https://drive.google.com/file/d/19oZJ2C0A6tIJkAsuwU7rYsyQ8ah5_0M7/view)
+
+</td>
+  </tr>
+</table>
 <hr>
 
-<!-- GitHub Stats (Dark Theme) -->
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=rameshramesh123&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rameshramesh123&show_icons=true&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=rameshramesh123&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rameshramesh123&show_icons=true&layout=compact&theme=tokyonight" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
 
 
 
